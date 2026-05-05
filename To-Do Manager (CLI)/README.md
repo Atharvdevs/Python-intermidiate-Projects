@@ -33,7 +33,6 @@ todo-cli/
 ├── input.py
 ├── save.py
 ├── view.py
-├── remove.py
 ├── To-Do_data.json
 └── README.md
 ```
