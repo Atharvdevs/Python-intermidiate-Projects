@@ -1,4 +1,5 @@
 import save,datetime
+
 def ask(money:int,field:str,yy:int,mm:int,dd:int):
     """take input and return date to list """
     print(f"your total amount is rupees {money:,}")
